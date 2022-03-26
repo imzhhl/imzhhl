@@ -5,10 +5,6 @@
 
 **学习进度：** （✅完成  ▶️进行  ❌待定）
 
-    ✅ Python编程-从入门到实践（蟒蛇书）
-
-    ✅ 深度学习入门-基于Python的理论与实践（鱼书）
-    
     ✅ C语言程序设计
     
     ✅ Fortran95程序设计
@@ -16,6 +12,12 @@
     ✅ 实用最优化方法
     
     ✅ 矩阵与数值分析
+    
+    ✅ Python编程-从入门到实践（蟒蛇书）
+
+    ✅ 深度学习入门-基于Python的理论与实践（鱼书）
+    
+    ▶️ 概率论
            
     ▶️ 大话数据结构
     
@@ -26,8 +28,6 @@
     ▶️ Physical based Deep Learning
     
     ▶️ Python深度学习
-    
-    ▶️ 概率论
     
     ▶️ Bayesian modeling and computation in Python
        
